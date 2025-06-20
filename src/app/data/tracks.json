@@ -1,0 +1,131 @@
+{
+    "data": [{
+            "_id": 1,
+            "name": "Un Coco",
+            "album": "Un Verano Sin Ti",
+            "cover": "https://th.bing.com/th/id/OIP.vzlo6NbxF0Fo6IFlNsxa9QHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7'",
+            "artist": {
+                "name": "Bad Bunny",
+                "nickname": "Bad Bunny",
+                "nationality": "PR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track.mp3"
+        },
+        {
+            "_id": 2,
+            "name": "Tengo Todo Excepto A Ti",
+            "album": "20 años",
+            "cover": "https://i.discogs.com/t3V8Y_dmtbPr5A2V0Z8ztZGSNSU0leWgFU4bUkBpkN4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjEx/MjMtMTU5MDg2NTg0/Ni03ODcyLmpwZWc.jpeg",
+            "artist": {
+                "name": "Luis Miguel",
+                "nickname": "Luis Miguel",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-1.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "EoO",
+            "album": "DeBÍ TiRAR MáS FOToS",
+            "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+            "artist": {
+                "name": "Bad Bunny",
+                "nickname": "Bad Bunny",
+                "nationality": "PR"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-2.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "LUNA",
+            "album": "FERXXOCALIPSIS",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/54/aa/7c54aa94-9ae3-4b80-7b23-8b23955dc3a2/23UM1IM60703.rgb.jpg/1200x1200bf-60.jpg",
+            "artist": {
+                "name": "Feid, ATL, Jacob",
+                "nickname": "Feid",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-3.mp3"
+        },
+        {
+            "_id": 5,
+                "name": "Voy a Apagar La Luz / Contigo Aprendí",
+                "album": "Romances",
+                "cover": "https://m.media-amazon.com/images/I/81QyRGfew1L._SL1425_.jpg",
+                "artist": {
+                    "name": "Luis Miguel",
+                    "nickname": "Luis Miguel",
+                    "nationality": "MX"
+                },
+                "duration": {
+                    "start": 0,
+                    "end": 333
+                },
+            "url": "http://localhost:3001/track-4.mp3"
+        },
+        {
+            "_id": 6,
+            "name": "HOLLIWOOD",
+            "album": "ÉXODO",
+            "cover": "https://t2.genius.com/unsafe/600x600/https://images.genius.com/b96467cf417af583a9886f1a000748da.999x999x1.png",
+            "artist": {
+                "name": "Peso Pluma",
+                "nickname": "Peso Pluma",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-5.mp3"
+        },
+        {
+            "_id": 7,
+            "name": "Hasta Que Me Olvides",
+            "album": "Aries",
+            "cover": "https://th.bing.com/th/id/OIP.wYq1slh-osbwdjpYM3EP-wHaHa?w=197&h=197&c=7&r=0&o=5&pid=1.7",
+            "artist": {
+                "name": "Luis Miguel",
+                "nickname": "Luis Miguel",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-6.mp3"
+        },
+        {
+            "_id": 8,
+            "name": "El Ruido De Tus Zapatos",
+            "album": "Calidad y Cantidad",
+            "cover": "https://th.bing.com/th/id/OIP.bvtlJ0o5fgyVMwIeqL3-dgHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7",
+            "artist": {
+                "name": "La Arolladora Banda El Limón De Rene Camacho",
+                "nickname": "La Arolladora",
+                "nationality": "MX"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3001/track-7.mp3"
+        }
+    ]
+}
